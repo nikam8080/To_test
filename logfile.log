@@ -1,0 +1,8 @@
+2024-02-11 12:44:50,074 INFO [logger.py:15] - Running HelloSpark.py
+2024-02-11 12:44:53,921 INFO [logger.py:19] - Starting HelloSpark
+2024-02-11 12:44:53,921 INFO [logger.py:19] - Finished HelloSpark
+2024-02-11 12:44:54,234 INFO [clientserver.py:543] - Closing down clientserver connection
+2024-02-11 12:45:43,173 INFO [logger.py:15] - Running HelloSpark.py
+2024-02-11 12:45:47,013 INFO [logger.py:19] - Starting HelloSpark
+2024-02-11 12:45:47,013 INFO [logger.py:19] - Finished HelloSpark
+2024-02-11 12:45:47,318 INFO [clientserver.py:543] - Closing down clientserver connection
